@@ -32,7 +32,7 @@ body{
   }
   
   .nav-container{
-    margin-left: 50px;
+    margin-left: 85px;
   }
   /* Change the color of links on hover */
   .navbar a:hover {
@@ -41,11 +41,11 @@ body{
   }
 
   .navbar img{
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     position: relative;
     left: 0;
-    padding-left: 8px;
+    margin-left: 15px;
   }
 
   .head{
@@ -143,4 +143,12 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 30px;
+ }
+
+ .footer{
+    width: 100%;
+    height: 30px;
+    background-color: #333;
+    color: white;
+    text-align: center;
  }
