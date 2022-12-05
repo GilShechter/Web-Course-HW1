@@ -87,7 +87,8 @@ body{
     height: 60%;
     object-fit: contain;
     position: relative;
-    float: right;
+    float: center;
+    padding-top: 20px;
  }
 
  .form p{
@@ -100,4 +101,18 @@ body{
     margin-bottom: 10px;
     border-radius: 3px;
     border-color: darkslategrey;
+ }
+
+ .story{
+    width: 50%;
+ }
+
+ .story p{
+    text-align: left;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+ }
+
+ .story h2{
+    float: left;
  }
