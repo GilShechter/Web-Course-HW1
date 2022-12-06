@@ -1,21 +1,10 @@
 
-body{
-  margin: 0;
-  padding: 0;
-  width: 100%;
-}
-
-/* Add a black background color to the top navigation */
-.navbar {
-    background-color: #333;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    left: 0;
+  body{
+    margin: 0;
+    padding: 0;
     width: 100%;
-    padding-left: 60px;
   }
-  
+ 
   .icon{
     float: left;
     position: absolute;
@@ -31,8 +20,12 @@ body{
     font-size: 17px;
   }
   
-  .nav-container{
+  #nav-container{
     margin-left: 85px;
+  }
+
+  .navbar button{
+    float: right;
   }
   /* Change the color of links on hover */
   .navbar a:hover {
@@ -63,7 +56,6 @@ body{
   .header-text{
     position: absolute;
     text-align: center;
-    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: black;
@@ -75,17 +67,18 @@ body{
     padding-right: 30px;
   }
 
+
  .form{
     margin-top: 30px;
     width: 50%;
     display: flex;
  }  
 
- .form .form-text{
+ .form-text{
     width: 50%;
  }
 
- .form .form-img{
+ .form-img{
     width: 50%;
  }
 
