@@ -10,5 +10,5 @@ Unlimited bamboo supply, unlimited fun.
 ## Links
 
 - [Project preview](https://kuala-forest.glitch.me/)
-- [Download from Github](https://github.com/creativetimofficial/awesome-landing-page.git)
+- [Download from Github](https://github.com/GilShechter/Web-Course-HW1.git)
 - Clone the repo: `git clone https://github.com/GilShechter/Web-Course-HW1.git`
